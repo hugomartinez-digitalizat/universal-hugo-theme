@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'es-es'
+title = 'Talleres Martínez S.L'
+theme = 'hugo-universal-theme'
